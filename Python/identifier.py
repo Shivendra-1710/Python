@@ -9,9 +9,9 @@ name2 = "Shiv"
 
 # Invalid identifier
 
-2name = "Abhi"        // Start with 2 as a number
-marks$ = 98           // "$"
-class = "Hello"       // As "class" is python keyword
+# 2name = "Abhi"        // Start with 2 as a number
+# marks$ = 98           // "$"
+# class = "Hello"       // As "class" is python keyword
 
-print age
-print name 
+print (age)
+print (name)
